@@ -1,0 +1,13 @@
+Col menu_text 20px   h1  28px
+
+Sm
+
+Lg
+
+Xl
+
+section
+lg top 100px bottom 120px
+md top 80px bottom 100px
+sm top 60px bottom 30px
+col top 50px bottom 40px
